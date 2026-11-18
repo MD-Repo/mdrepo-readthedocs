@@ -1,6 +1,6 @@
 # TOML Tools (mdr-meta)
 
-Use [mdr-meta](https://github.com/TravisWheelerLab/mdrepo-rs/releases) tool to create and validate the TOML/metadata file.
+Use [mdr-meta](https://github.com/MD-Repo/mdrepo-rs/releases) tool to create and validate the TOML/metadata file.
 
 Run the command with no arguments to see the available commands:
 

@@ -20,7 +20,7 @@ Each simulation directory should contain the following:
 * One topology file (.psf for CHARMM, NAMD, XPLOR, .top, .itp, .tpr for GROMACS, .prmtop for AMBER, etc.)
 * One or more trajectory files.
 * Any additional files produced with the simulation. Maximum file size for all uploaded files is 40GB.
-* A simulation metadata file named `mdrepo-metadata.toml` in TOML format. Use the [metadata](https://mdrepo.org/metadata) form or the [mdr-meta](https://github.com/TravisWheelerLab/mdrepo-rs/releases) command-line tool to generate and validate metadata files in the [TOML specification](./toml_spec.html).
+* A simulation metadata file named `mdrepo-metadata.toml` in TOML format. Use the [metadata](https://mdrepo.org/metadata) form or the [mdr-meta](https://github.com/MD-Repo/mdrepo-rs/releases) command-line tool to generate and validate metadata files in the [TOML specification](./toml_spec.html).
 
 ## Upload Tokens
 
